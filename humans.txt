@@ -1,0 +1,19 @@
+﻿/* TEAM */
+    Design & UX & Front-end & (...): Jorge Rigabert
+    E-mail: hola [at] jorgerigabert.com
+    Twitter: @jrigabert
+    Location: Zaragoza, Spain
+                   
+/* THANKS */
+
+    Thanks so much for helping me with jQuery: David Pemán
+    E-mail: jdeiviz [at] gmail.com
+    Twitter: @jdeiviz
+    From: Zaragoza, Spain
+
+/* SITE */
+    Last update: 2011/03/19
+    Standards: HTML5, CSS3
+    Components: jQuery
+    Language: Spanish
+    Doctype: HTML5

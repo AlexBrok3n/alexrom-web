@@ -1,0 +1,84 @@
+/* --- RESETS --- 
+------------------------------------------------------------------- */
+article, aside, audio, canvas, command, datalist, details, embed, figcaption, figure, footer, header, hgroup, keygen, meter, nav, output, progress, section, source, video{ 
+	display: block;
+}
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, button, textarea, p, blockquote, th, td{
+	margin: 0; padding: 0;
+}
+mark, rp, rt, ruby, summary, time{ 
+	display: inline;
+}
+html{ 
+	background: none; 
+	color: #fff;
+}
+body{
+	font: 14px/18px Arial, Helvetica, sans-serif;
+	color: #fff;
+	text-align: center;
+	background:#000;
+}
+input{ 
+	outline: none; 
+	border: none; 
+	border: 0;
+}
+textarea{ 
+	outline: none; 
+	resize: none; 
+	border: none; 
+	border: 0;
+}
+a{ 
+	text-decoration: none; 
+	outline: none;
+}
+a.active{ 
+	outline: none;
+}
+.none{ 
+	display: none;
+}
+.flat-left{ 
+	float: left;
+}
+.flat-right{ 
+	float: right;
+}
+.align-center{ 
+	text-align: center;
+}
+.align-right{ 
+	text-align: right;
+}
+table{
+	border-collapse: collapse;
+	border-spacing: 0;}
+fieldset, img{ 
+	border: 0;
+}
+address, caption, cite, code, dfn, em, strong, th, var, optgroup{
+	font-style:inherit; 
+	font-weight:inherit;
+}
+li{
+	list-style: none;
+}
+h1, h2, h3, h4, h5, h6{
+	font-size: 100%;
+	font-weight:normal;
+}
+input, button, textarea, select, optgroup, option{
+	font-family: inherit;
+	font-size: inherit;
+	font-style: inherit;
+	font-weight: inherit;
+}
+select, input, button, textarea, button{
+	font: 100% arial, helvetica, clean, sans-serif;
+}
+table{
+	font-size: inherit;
+	font: 100%;
+}
